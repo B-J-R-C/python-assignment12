@@ -1,0 +1,8 @@
+1. Differences between static and interactive visualizations:
+Static visualizations are great for printed reports or simple snapshots of data, but they lack exploration capabilities. Interactive visualizations (like Plotly) allow the user to hover for exact values, zoom in on specific clusters, and toggle categories on and off, making them far superior for exploratory data analysis.
+
+2. Advantages of using dashboards for real-time data exploration:
+Dashboards combine multiple interactive views into a single interface. The primary advantage is that users don't need to know how to code to explore the data. Dropdowns, sliders, and live-updating graphs allow stakeholders to answer their own questions instantly without waiting for a data scientist to generate a new static report.
+
+3. Improving data communication in professional settings:
+Tools like Plotly and Dash bridge the gap between technical analysts and business leaders. Instead of presenting a rigid PowerPoint, an analyst can present a live Dash app. If an executive asks, "What does this look like for France instead of Canada?", the presenter simply changes the dropdown, and the data communicates the answer immediately in real time.
